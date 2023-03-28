@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:wght@300&display=swap');
+ body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif; 
+  background-image: url('./rm373batch13-082-kpxk9ngk.jpg');
+  
+}
+
+.button{
+  width: 66px;
+  padding: 20px;
+  margin: 0 3px;
+  border: 2px solid black;
+  border-radius: 50%;
+  cursor: pointer;
+  background-color: rgb(21, 12, 75);
+  color: rgb(216, 216, 27);
+  font-size: 20px;
+  
+}
+
+.row{
+  margin: 8px 0;
+  box-sizing: border-box;
+ 
+  
+}
+
+.row input{
+  width: 291px;
+  font-size: 20px;
+    margin: 0;
+    padding: 10px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(3, 3, 3);
+    color: white;
+    
+}
+.text-center1{
+    text-align: center;
+color: bisque;}
+
+.text-center{
+    text-align: center;
+    color: white;
+    margin: auto;
+    width: 25%;
+    border: 3px solid rgb(36, 36, 76);
+    border-radius: 10%;
+     padding: 10px;
+     background-color: rgb(24, 20, 42);
+     
+      }
+
+  .rowbgclr button{
+
+    background-color: orange;
+    font-size: 1rem;
+    border-radius: 10%;
+width:100px;
+font-size: 2rem;
+color: blueviolet;
+  }
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  
